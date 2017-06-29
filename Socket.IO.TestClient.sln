@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket.IO.TestClient.Plugins", "Socket.IO.TestClient.Plugins.csproj", "{702F58C9-6B15-0BCA-FD8B-0408F238A36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket.IO.TestClient", "Socket.IO.TestClient.csproj", "{D9A0EB7A-B478-D938-4525-9F1069B6C5B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702F58C9-6B15-0BCA-FD8B-0408F238A36D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702F58C9-6B15-0BCA-FD8B-0408F238A36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702F58C9-6B15-0BCA-FD8B-0408F238A36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702F58C9-6B15-0BCA-FD8B-0408F238A36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A0EB7A-B478-D938-4525-9F1069B6C5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A0EB7A-B478-D938-4525-9F1069B6C5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A0EB7A-B478-D938-4525-9F1069B6C5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A0EB7A-B478-D938-4525-9F1069B6C5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
